@@ -1,0 +1,35 @@
+.header {
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+
+.content {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.listor > p {
+    font-size: larger;
+    color: green;
+    
+}
+
+ul {
+    list-style-type: lower-alpha;
+}
